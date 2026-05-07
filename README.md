@@ -1,2 +1,2 @@
-# Security-Monitoring-and-Log-Analysis
+# Security Monitoring And Log Analysis
 Lab Practice
