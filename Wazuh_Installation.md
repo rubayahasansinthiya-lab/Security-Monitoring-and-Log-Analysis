@@ -229,6 +229,8 @@ The all-in-one installation method was used to install:
 sudo bash ./wazuh-install.sh -a
 ```
 
+<img width="788" height="56" alt="image" src="https://github.com/user-attachments/assets/a1904c44-8cdb-4b89-b0ff-ee8d30a73f3e" />
+
 ## Explanation
 
 | Part             | Description                  |
@@ -264,6 +266,9 @@ depending on internet speed and VM resources.
 # 11. Generated Credentials
 
 At the end of installation, Wazuh automatically generates login credentials.
+
+<img width="1138" height="237" alt="image" src="https://github.com/user-attachments/assets/2fbcc934-4132-47a9-8b35-99ac1eb022f9" />
+
 
 ## Example
 
