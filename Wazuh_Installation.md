@@ -308,18 +308,15 @@ The Wazuh web dashboard can be accessed from the browser.
 ```text
 https://172.30.29.29
 ```
-<img width="1556" height="902" alt="image" src="https://github.com/user-attachments/assets/803e8bcd-02a0-4bfc-947a-933526afcc2c" />
-
-<img width="520" height="276" alt="image" src="https://github.com/user-attachments/assets/8825d3fc-a8d7-4c2e-81e9-325edbb27500" />
-
-
-
 
 ## Login Credentials
 
 | Username | Password                      |
 | -------- | ----------------------------- |
 | admin    | Generated during installation |
+
+<img width="582" height="781" alt="image" src="https://github.com/user-attachments/assets/1235462f-395e-45b3-bc9b-f80b0d21ea6f" />
+
 
 ## Important Note
 
@@ -346,6 +343,9 @@ After successful login, the following features were observed:
 * Security Alerts Visualization
 
 ---
+<img width="1862" height="774" alt="image" src="https://github.com/user-attachments/assets/0781abee-3dea-4110-9aeb-d8411ef32170" />
+
+
 
 # 15. Basic Linux Commands Used During the Lab
 
