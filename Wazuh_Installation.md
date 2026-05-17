@@ -75,14 +75,15 @@ The system was assigned the following IP address:
 ```bash
 172.30.29.29
 ```
+<br>
 <img width="975" height="299" alt="image" src="https://github.com/user-attachments/assets/a4015da5-ce03-4042-89b9-4074acb5ef61" />
-
+<br>
 # 5. Connect With PuTTy
-
+<br>
 <img width="746" height="681" alt="image" src="https://github.com/user-attachments/assets/d3492e58-f957-4e46-90ad-b03ea9994d7e" />
-
+<br>
 <img width="893" height="289" alt="image" src="https://github.com/user-attachments/assets/84483252-0045-4953-9f00-2f3e25055006" />
-
+<br>
 
 # 6. Updating the Ubuntu System
 
@@ -93,8 +94,9 @@ Before installing Wazuh, the operating system must be updated.
 ```bash
 sudo apt update && sudo apt upgrade -y
 ```
+<br>
 <img width="864" height="169" alt="image" src="https://github.com/user-attachments/assets/ab9b54a4-b3d2-44bb-a8c4-cb8dd98045f1" />
-
+<br>
 
 ## Explanation
 
@@ -120,8 +122,9 @@ Curl is required to download the Wazuh installation script.
 ```bash
 sudo apt install curl -y
 ```
+<br>
 <img width="954" height="165" alt="image" src="https://github.com/user-attachments/assets/f1c686dc-bad9-4ecf-88fe-eab47cbd110f" />
-
+<br>
 
 ## Explanation
 
@@ -146,10 +149,11 @@ The Wazuh installation script was downloaded from the official Wazuh repository.
 ```bash
 curl -sO https://packages.wazuh.com/4.7/wazuh-install.sh
 ```
+<br>
 <img width="998" height="32" alt="image" src="https://github.com/user-attachments/assets/6f05a74f-1dec-4753-ab51-1df856ae37c0" />
-
+<br?
 <img width="1042" height="209" alt="image" src="https://github.com/user-attachments/assets/276264a9-cf04-4dfd-bf5f-ffd502e68cc5" />
-
+<br>
 
 ## Explanation
 
@@ -206,9 +210,9 @@ The all-in-one installation method was used to install:
 ```bash
 sudo bash ./wazuh-install.sh -a
 ```
-
+<br>
 <img width="788" height="56" alt="image" src="https://github.com/user-attachments/assets/a1904c44-8cdb-4b89-b0ff-ee8d30a73f3e" />
-
+<br>
 ## Explanation
 
 | Part             | Description                  |
@@ -244,9 +248,9 @@ depending on internet speed and VM resources.
 # 11. Generated Credentials
 
 At the end of installation, Wazuh automatically generates login credentials.
-
+<br>
 <img width="1138" height="237" alt="image" src="https://github.com/user-attachments/assets/2fbcc934-4132-47a9-8b35-99ac1eb022f9" />
-
+<br>
 
 ## Example
 
@@ -315,8 +319,9 @@ https://172.30.29.29
 | -------- | ----------------------------- |
 | admin    | Generated during installation |
 
+<br>
 <img width="582" height="781" alt="image" src="https://github.com/user-attachments/assets/1235462f-395e-45b3-bc9b-f80b0d21ea6f" />
-
+<br>
 
 ## Important Note
 
@@ -343,9 +348,9 @@ After successful login, the following features were observed:
 * Security Alerts Visualization
 
 ---
+<br>
 <img width="1862" height="774" alt="image" src="https://github.com/user-attachments/assets/0781abee-3dea-4110-9aeb-d8411ef32170" />
-
-
+<br>
 
 # 15. Basic Linux Commands Used During the Lab
 
