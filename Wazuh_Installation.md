@@ -1,4 +1,4 @@
-# 🧪 Wazuh Installation Lab Manual on Ubuntu Server (PuTTY Version)
+#  Wazuh Installation Lab Manual on Ubuntu Server (PuTTY Version)
 
 ---
 
