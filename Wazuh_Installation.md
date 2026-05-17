@@ -77,9 +77,9 @@ The system was assigned the following IP address:
 ```
 <br>
 <img width="975" height="299" alt="image" src="https://github.com/user-attachments/assets/a4015da5-ce03-4042-89b9-4074acb5ef61" />
-<br>
+<br><br>
 # 5. Connect With PuTTy
-<br>
+<br><br>
 <img width="746" height="681" alt="image" src="https://github.com/user-attachments/assets/d3492e58-f957-4e46-90ad-b03ea9994d7e" />
 <br><br>
 <img width="893" height="289" alt="image" src="https://github.com/user-attachments/assets/84483252-0045-4953-9f00-2f3e25055006" />
