@@ -74,6 +74,15 @@ The system was assigned the following IP address:
 
 ```bash
 172.30.29.29
+```
+<img width="975" height="299" alt="image" src="https://github.com/user-attachments/assets/a4015da5-ce03-4042-89b9-4074acb5ef61" />
+
+# 5. Connect With PuTTy
+
+<img width="746" height="681" alt="image" src="https://github.com/user-attachments/assets/d3492e58-f957-4e46-90ad-b03ea9994d7e" />
+
+<img width="893" height="289" alt="image" src="https://github.com/user-attachments/assets/84483252-0045-4953-9f00-2f3e25055006" />
+
 
 # 6. Updating the Ubuntu System
 
@@ -260,6 +269,7 @@ After installation, service status was verified.
 sudo systemctl status wazuh-manager
 ```
 
+
 ## Checking Wazuh Dashboard
 
 ```bash
@@ -296,8 +306,14 @@ The Wazuh web dashboard can be accessed from the browser.
 ## URL
 
 ```text
-https://10.0.2.15
+https://172.30.29.29
 ```
+<img width="1556" height="902" alt="image" src="https://github.com/user-attachments/assets/803e8bcd-02a0-4bfc-947a-933526afcc2c" />
+
+<img width="520" height="276" alt="image" src="https://github.com/user-attachments/assets/8825d3fc-a8d7-4c2e-81e9-325edbb27500" />
+
+
+
 
 ## Login Credentials
 
