@@ -1,42 +1,5 @@
 # Wazuh Installation Lab Manual on Ubuntu Server
 
-> **GitHub Repository Ready Markdown Version**
-> Screenshot placeholders are included so images can be added easily.
-
----
-
-## 📸 Screenshot Format Instruction
-
-For every screenshot section below:
-
-1. Create a folder named:
-
-```text
-images
-```
-
-2. Save screenshots inside the folder.
-
-3. Replace the image filename with your actual screenshot filename.
-
-Example:
-
-```markdown
-![SSH Login](images/ssh-login.png)
-```
-
---- 22.04 LTS
-
-## Course Information
-
-**Course Title:** Security Operations Center (SOC) and SIEM Lab
-**Lab Title:** Installation and Configuration of Wazuh SIEM on Ubuntu Server 22.04 LTS
-**Prepared By:** Rubaya
-**Department:** Cyber Security Engineering
-**Platform Used:** VirtualBox + Ubuntu Server 22.04.5 LTS
-
----
-
 # 1. Objective
 
 The objective of this lab is to install and configure the Wazuh SIEM platform on Ubuntu Server 22.04 LTS using a virtualized environment. This lab demonstrates how a Security Information and Event Management (SIEM) solution can be deployed for log monitoring, intrusion detection, endpoint visibility, and security analytics.
@@ -152,6 +115,8 @@ Before installing Wazuh, the operating system must be updated.
 ```bash
 sudo apt update && sudo apt upgrade -y
 ```
+<img width="864" height="169" alt="image" src="https://github.com/user-attachments/assets/ab9b54a4-b3d2-44bb-a8c4-cb8dd98045f1" />
+
 
 ## Explanation
 
@@ -177,6 +142,8 @@ Curl is required to download the Wazuh installation script.
 ```bash
 sudo apt install curl -y
 ```
+<img width="954" height="165" alt="image" src="https://github.com/user-attachments/assets/f1c686dc-bad9-4ecf-88fe-eab47cbd110f" />
+
 
 ## Explanation
 
@@ -201,6 +168,10 @@ The Wazuh installation script was downloaded from the official Wazuh repository.
 ```bash
 curl -sO https://packages.wazuh.com/4.7/wazuh-install.sh
 ```
+<img width="998" height="32" alt="image" src="https://github.com/user-attachments/assets/6f05a74f-1dec-4753-ab51-1df856ae37c0" />
+
+<img width="1042" height="209" alt="image" src="https://github.com/user-attachments/assets/276264a9-cf04-4dfd-bf5f-ffd502e68cc5" />
+
 
 ## Explanation
 
