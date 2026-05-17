@@ -1,4 +1,6 @@
-# Wazuh Installation Lab Manual on Ubuntu Server
+# 🧪 Wazuh Installation Lab Manual on Ubuntu Server (PuTTY Version)
+
+---
 
 # 1. Objective
 
@@ -7,7 +9,7 @@ The objective of this lab is to install and configure the Wazuh SIEM platform on
 After completing this lab, the student will be able to:
 
 * Install Ubuntu Server in VirtualBox
-* Configure SSH connectivity
+* Configure SSH connectivity using PuTTY
 * Update and prepare the Linux environment
 * Install Wazuh SIEM components
 * Access the Wazuh web dashboard
@@ -58,7 +60,7 @@ Main Components of Wazuh:
 | VirtualBox    | Latest          |
 | Ubuntu Server | 22.04.5 LTS     |
 | Wazuh         | 4.7             |
-| SSH Client    | Windows OpenSSH |
+| SSH Client    | Windows PuTTY   |
 
 ---
 
@@ -68,43 +70,10 @@ The Ubuntu Server virtual machine was configured inside VirtualBox.
 
 ## IP Address Information
 
-The system automatically received the following IP address:
+The system was assigned the following IP address:
 
 ```bash
-10.0.2.15
-```
-
-This IP address is used to access the Wazuh dashboard from the host machine.
-
----
-
-# 5. SSH Connection to Ubuntu Server
-
-The Ubuntu server was accessed remotely using SSH from Windows PowerShell.
-
-## Command Used
-
-```powershell
-ssh rubaya@localhost
-```
-
-## Explanation
-
-| Part      | Description           |
-| --------- | --------------------- |
-| ssh       | Secure Shell command  |
-| rubaya    | Ubuntu username       |
-| localhost | Local machine address |
-
-## Successful Login Output
-
-```bash
-Welcome to Ubuntu 22.04.5 LTS
-```
-
-This indicates that SSH connectivity was successfully established.
-
----
+172.30.29.29
 
 # 6. Updating the Ubuntu System
 
