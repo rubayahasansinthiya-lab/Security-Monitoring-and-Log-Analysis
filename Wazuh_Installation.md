@@ -81,7 +81,7 @@ The system was assigned the following IP address:
 # 5. Connect With PuTTy
 <br>
 <img width="746" height="681" alt="image" src="https://github.com/user-attachments/assets/d3492e58-f957-4e46-90ad-b03ea9994d7e" />
-<br>
+<br><br>
 <img width="893" height="289" alt="image" src="https://github.com/user-attachments/assets/84483252-0045-4953-9f00-2f3e25055006" />
 <br>
 
