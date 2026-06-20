@@ -1,7 +1,11 @@
 Domains:
 
-IPs:
-
-Hashes:
+IP Addresses:
 
 URLs:
+
+SHA256 Hashes:
+
+File Names:
+
+User Agents:
